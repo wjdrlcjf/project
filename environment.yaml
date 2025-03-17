@@ -1,0 +1,9 @@
+name: dstoolbox
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - nb_conda_kernels
+prefix: C:\Users\jakej\miniconda3\envs\dstoolbox
